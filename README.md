@@ -9,4 +9,5 @@ I am a Computer Science major and Former Marine learning how to use and operate 
 Status Que: *minimum viable product* *release features with the next patch*
 
 This project is designed to show proficientcy in creating Hello World programs in JAVA and C++
+
 More languages to follow as I learn them.
